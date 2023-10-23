@@ -1,0 +1,3 @@
+/home/user98/Training/ISP/obj_detection/C++/CMakeFiles/main.dir
+/home/user98/Training/ISP/obj_detection/C++/CMakeFiles/edit_cache.dir
+/home/user98/Training/ISP/obj_detection/C++/CMakeFiles/rebuild_cache.dir

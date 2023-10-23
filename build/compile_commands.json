@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/user98/Training/ISP/obj_detection/build",
+  "command": "/usr/bin/c++ -I/home/user98/Training/ISP/obj_detection/C++/lib -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/user98/Training/ISP/obj_detection/C++/main.cpp",
+  "file": "/home/user98/Training/ISP/obj_detection/C++/main.cpp"
+},
+{
+  "directory": "/home/user98/Training/ISP/obj_detection/build",
+  "command": "/usr/bin/c++ -I/home/user98/Training/ISP/obj_detection/C++/lib -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/lib/nms.cpp.o -c /home/user98/Training/ISP/obj_detection/C++/lib/nms.cpp",
+  "file": "/home/user98/Training/ISP/obj_detection/C++/lib/nms.cpp"
+},
+{
+  "directory": "/home/user98/Training/ISP/obj_detection/build",
+  "command": "/usr/bin/c++ -I/home/user98/Training/ISP/obj_detection/C++/lib -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/lib/image_processing.cpp.o -c /home/user98/Training/ISP/obj_detection/C++/lib/image_processing.cpp",
+  "file": "/home/user98/Training/ISP/obj_detection/C++/lib/image_processing.cpp"
+}
+]
